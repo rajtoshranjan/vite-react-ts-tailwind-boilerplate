@@ -69,7 +69,7 @@ This repository is a boilerplate for building a frontend application using Vite,
 ├── .gitignore
 ├── .lintstagedrc
 ├── .prettierignore
-├── .prettierrc.js
+├── .prettierrc.mjs
 ├── index.html
 ├── LICENSE
 ├── package.json
