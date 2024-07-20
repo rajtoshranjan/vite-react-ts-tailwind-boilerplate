@@ -7,7 +7,8 @@
     "build": "tsc && vite build --mode development",
     "preview": "vite preview",
     "prepare": "husky",
-    "lint": "eslint \"src/**/*.{ts,tsx,js}\" --fix --max-warnings=0 && tsc --extendedDiagnostics"
+    "lint": "eslint \"src/**/*.{ts,tsx,js}\" --fix --max-warnings=0 && tsc --extendedDiagnostics",
+    "format": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
   },
   "dependencies": {
     "classnames": "^2.5.1",

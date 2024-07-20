@@ -47,6 +47,7 @@ This repository is a boilerplate for building a frontend application using Vite,
 - **`npm run preview`**: Serves the production build.
 - **`npm run lint`**: Runs ESLint to check for linting errors.
 - **`npm run prepare`**: Setup husky.
+- **`npm run format`**: Formats code using Prettier.
 
 ## Project Structure
 
