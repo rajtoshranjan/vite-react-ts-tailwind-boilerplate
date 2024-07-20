@@ -122,8 +122,4 @@ Enjoy building your Vite React TypeScript TailwindCSS application!
 
 ---
 
----
-
 Happy coding!
-
----
